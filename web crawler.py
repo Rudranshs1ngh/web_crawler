@@ -154,7 +154,7 @@ if name == "main":
     # Example usage
     sample_urls = [
         # Replace with valid LinkedIn public profile or company URLs (if permitted)
-        "https://www.linkedin.com/in/gaurav-chitwaan-4a6579166/",
+        "https://www.linkedin.com/in/rudransh-singh-9b11582a3/",
         "https://www.linkedin.com/company/ernstandyoung",
     ]
     crawl_linkedin_pages(sample_urls)
